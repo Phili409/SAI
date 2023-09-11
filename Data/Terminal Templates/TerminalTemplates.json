@@ -1,0 +1,10 @@
+{
+    "Menu" : "Main Menu",
+    "Loading": {
+        "Internet Connection" : "Checking For Internet Connection, x, y",
+        "Loading Screen" : "Loading, x, y",
+        "Internet Connected" : "Internet Is Connected, x, y"
+    },
+    "Play": "Play",
+    "Settings": "Commands, x, y"
+}
