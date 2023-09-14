@@ -15,7 +15,7 @@ Playlist Management: Created a playlist recommendation that you no longer vibe w
 And More: Dive in to explore other functionalities that make this tool not just a music player, but a dynamic and intuitive music experience within your terminal!
 
 Project Status 🚧
-Please note that this project is incomplete and is currently under active development. I've been dedicating time and effort into making this application better with each iteration. Given its ongoing nature, you might encounter some features that are still being fine-tuned or added. Your patience, feedback, and contributions are greatly appreciated!
+Please note that this project is incomplete and is currently under active development. This project is satire and resembles my programming journey; therefore you will encounter old code that is not optimal or standard. I've been dedicating time and effort into making this application better with each iteration. Given its ongoing nature, you might encounter some features that are still being fine-tuned or added. Your patience, feedback, and contributions are greatly appreciated!
 
 Stay tuned for more updates and features in the coming releases!
 
